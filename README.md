@@ -1,3 +1,5 @@
+
+
 Q.1	You have the following dataset: 
 <img width="424" height="29" alt="image" src="https://github.com/user-attachments/assets/ec821abe-762d-42d6-a9c3-5114d7c941d3" />
 Formula is: =SUM(C7:C8)		
